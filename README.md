@@ -59,6 +59,8 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - **[DeepSpeed MII](https://github.com/microsoft/DeepSpeed-MII)** – Low-latency inference for Hugging Face models.
 - **[Ray Serve](https://docs.ray.io/en/latest/serve/)** – Scalable model serving via Ray.
 
+- **[AIWave](https://aiwave.live/docs/quickstart)** – Managed OpenAI-compatible model gateway for Chinese AI providers with USD billing and dated pricing.
+
 ## Monitoring & Observability
 
 - **[PromptLayer](https://www.promptlayer.com/)** – Log, monitor, and manage prompts across LLM providers.
